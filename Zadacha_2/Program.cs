@@ -5,7 +5,7 @@
 Console.WriteLine("Введите первое число А");
 int a=Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Введите первое число B");
+Console.WriteLine("Введите второе число B");
 int b=Convert.ToInt32(Console.ReadLine());
 
 if (a>b)

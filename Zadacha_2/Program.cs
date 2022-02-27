@@ -10,9 +10,9 @@ int b=Convert.ToInt32(Console.ReadLine());
 
 if (a>b)
 {
-    Console.WriteLine("Число А является большим чем B");
+    Console.WriteLine("Максимальным числом является  " + a);
 } 
 else
 {
-    Console.WriteLine("Число B является большим чем A");
+    Console.WriteLine("Максимальным числом является  " + b);
 }
